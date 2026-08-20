@@ -1,0 +1,20 @@
+{
+  "language_prompt": "Пожалуйста, выберите язык / Haýyş, dili saýlaň:",
+  "language_button_ru": "🇷🇺 Русский",
+  "language_button_tk": "🇹🇲 Türkmençe",
+  "language_set": "Dil saýlandy: Türkmençe ✅",
+  "start_user": "Salam! Habaryňyzy şu ýere ýazyň — men ony goldawa iberjek. Tekst, surat, wideo, faýl, ses habarlaryny we beýleki habarlary iberip bilersiňiz.",
+  "start_admin": "Siz goldaw çatynda. Belli bir ulanyja jogap bermek üçin, onuň iberilen habaryna reply ediň.",
+  "help_user": "Soragyňyzy ýa-da meseläňizi şu çata ýazyň, biz size iň gysga wagtda jogap bereris.\n\nDili üýtgetmek: /language",
+  "help_admin": "Administrator komandalary:\n/language — interfeýsiň dilini üýtgetmek\n/stats — ýüztutmalaryň statistikasy\n\nUlanyja jogap bermek üçin, onuň iberilen habaryna reply ediň.",
+  "message_forwarded_to_support": "✅ Habar goldawa iberildi. Mümkin boldugyça çalt jogap bereris.",
+  "message_forward_failed": "❌ Habary ibermek başartmady. Birazdan gaýtadan synanyşyň.",
+  "admin_reply_sent": "✅ Ulanyja iberildi.",
+  "admin_reply_failed": "❌ Ulanyja jogap ibermek başartmady.",
+  "admin_reply_no_target": "Jogap ibermek üçin ulanyjynyň iberilen habaryna reply ediň.",
+  "admin_mapping_not_found": "⚠️ Asyl habar bilen baglanyşyk tapylmady. Belki, ol köne bolandyr.",
+  "admin_unsupported_message_type": "Goldawdan jogap geldi, emma habaryň görnüşi bot tarapyndan goldanmaýar.",
+  "unsupported_message_type": "Bu habar görnüşi häzirlikçe bot tarapyndan goldanmaýar.",
+  "new_ticket_notification": "📩 {user_display} tarapyndan täze habar",
+  "stats_message": "📊 Statistika:\nJemi ulanyjylar: {total_users}\nRU dili: {ru_count}\nTK dili: {tk_count}"
+}
